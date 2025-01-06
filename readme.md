@@ -2,8 +2,10 @@
 
 made by [Melis34](https://github.com/Melis34) @
 [Melis IT Solutions](https://melisitsolutions.com/)
+\
 
-closed source automatic web3 vulnerabilty scanner for smart contract audits and bug bounties
+ 
+ Opensource prototype of a closed source automatic web3 vulnerabilty scanner for smart contract audits and bug bounties
 
 ## options:
 
