@@ -8,6 +8,7 @@ made by [Melis34](https://github.com/Melis34) @
 Start using:
 \
 `python3 main.py`
+\
 Automatically targets all files in testContracts folder, but this can be changed with use of options.
 
 ## options:
